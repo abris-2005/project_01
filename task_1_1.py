@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/16yQnkE_pgxoOBTQtK0kZ9VjWx04XlgdB
 """
 
-from pickle import STOP
+
 # Задача 1.1.
 # Есть строка с перечислением песен
 my_favorite_songs = 'Waste a Moment, Staying\' Alive, A Sorta Fairytale, Start Me Up, New Salvation'
